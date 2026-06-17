@@ -1,1 +1,1 @@
-# expense-service
+# inventory-service
